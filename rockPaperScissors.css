@@ -1,0 +1,57 @@
+body {
+	background-color:#ffffff;
+}
+h1 {
+	color: black;
+	padding: auto;
+	font-size: 75px;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
+h2 {
+	color: blue;
+	padding: auto;
+	margin: auto;
+	font-size: 75px;
+	text-align: center;
+}
+h3 {
+	color: red;
+	padding: auto;
+	margin: auto;
+	font-size: 75px;
+	text-align: center;
+}
+#rockButton {
+	color: green;
+	background-color: pink;
+	padding: auto;
+	margin: auto;
+	font-size: 50px;
+	text-align: center;
+}
+#paperButton {
+	color: green;
+	background-color: pink;
+	padding: auto;
+	margin: auto;
+	font-size: 50px;
+	text-align: center;
+}
+#scissorsButton {
+	color: green;
+	background-color: pink;
+	padding: auto;
+	margin: auto;
+	font-size: 50px;
+	text-align: center;
+}
+#divRock {
+	color: black;
+	padding: 50px;
+	font-size: 50px;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
