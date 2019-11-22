@@ -2,7 +2,7 @@ function pressRock() {
 	const enemyChoice = Math.ceil(Math.random() * 3);
 	const enemyHand = document.createElement("p");
 	if (enemyChoice === 2) {
-		enemyHand.innerText = "Yor Rock lost to Paper";
+		enemyHand.innerText = "Your Rock lost to Paper";
 	} else if (enemyChoice === 1) {
 		enemyHand.innerText = "Your Rock tied with Rock";
 	} else {
