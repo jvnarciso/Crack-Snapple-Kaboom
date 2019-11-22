@@ -50,13 +50,14 @@ h3 {
 	text-align: center;
 	display:block;
 }
-#divRock {
+#divHistory {
 	color: black;
 	padding: 50px;
 	font-size: 50px;
 	margin: auto;
 	width: 50%;
 	text-align: center;
+	display:block;
 }
 img {
 	width: auto;
