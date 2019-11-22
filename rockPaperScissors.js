@@ -1,5 +1,10 @@
 function pressRock() {
 	const enemyChoice = Math.ceil(Math.random() * 3);
+	const result = document.querySelector('h2');
+	if (result) {
+	result.remove();
+	}	
+	const enemyImage = document.createElement("img");
 	const enemyHand = document.createElement("p");
 	if (enemyChoice === 2) {
 		enemyHand.innerText = "Your Rock lost to Paper";
