@@ -1,5 +1,5 @@
 body {
-	background-color:#ffffff;
+	background-color:salmon;
 }
 h1 {
 	color: black;
@@ -30,6 +30,7 @@ h3 {
 	margin: auto;
 	font-size: 50px;
 	text-align: center;
+	display: block;
 }
 #paperButton {
 	color: green;
@@ -38,6 +39,7 @@ h3 {
 	margin: auto;
 	font-size: 50px;
 	text-align: center;
+	display:block;
 }
 #scissorsButton {
 	color: green;
@@ -46,6 +48,7 @@ h3 {
 	margin: auto;
 	font-size: 50px;
 	text-align: center;
+	display:block;
 }
 #divRock {
 	color: black;
@@ -54,4 +57,10 @@ h3 {
 	margin: auto;
 	width: 50%;
 	text-align: center;
+}
+img {
+	width: auto;
+	margin: auto;
+	padding: auto;
+	display: block;
 }
