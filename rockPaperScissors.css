@@ -1,5 +1,5 @@
 body {
-	background-color:salmon;
+	background-color:gray;
 }
 h1 {
 	color: black;
@@ -10,22 +10,22 @@ h1 {
 	text-align: center;
 }
 h2 {
-	color: blue;
+	color: black;
 	padding: auto;
 	margin: auto;
 	font-size: 75px;
 	text-align: center;
 }
 h3 {
-	color: red;
+	color: black;
 	padding: auto;
 	margin: auto;
 	font-size: 75px;
 	text-align: center;
 }
 #rockButton {
-	color: green;
-	background-color: pink;
+	color: white;
+	background-color: black;
 	padding: auto;
 	margin: auto;
 	font-size: 50px;
@@ -33,8 +33,8 @@ h3 {
 	display: block;
 }
 #paperButton {
-	color: green;
-	background-color: pink;
+	color: white;
+	background-color: black;
 	padding: auto;
 	margin: auto;
 	font-size: 50px;
@@ -42,8 +42,8 @@ h3 {
 	display:block;
 }
 #scissorsButton {
-	color: green;
-	background-color: pink;
+	color: white;
+	background-color: black;
 	padding: auto;
 	margin: auto;
 	font-size: 50px;
