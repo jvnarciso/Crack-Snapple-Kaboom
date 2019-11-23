@@ -1,67 +1,81 @@
 body {
-	background-color:gray;
+  background-color: gray;
 }
 h1 {
-	color: black;
-	padding: auto;
-	font-size: 75px;
-	margin: auto;
-	width: 50%;
-	text-align: center;
+  color: black;
+  padding: auto;
+  font-size: 75px;
+  margin: auto;
+  width: 50%;
+  text-align: center;
 }
 h2 {
-	color: black;
-	padding: auto;
-	margin: auto;
-	font-size: 75px;
-	text-align: center;
+  color: black;
+  padding: auto;
+  margin: auto;
+  font-size: 75px;
+  text-align: center;
 }
 h3 {
-	color: black;
-	padding: auto;
-	margin: auto;
-	font-size: 75px;
-	text-align: center;
+  color: black;
+  padding: auto;
+  margin: auto;
+  font-size: 75px;
+  text-align: center;
+}
+h4 {
+  color: black;
+  padding: auto;
+  margin: auto;
+  font-size: 75px;
+  text-align: center;
+}
+#divWinRate {
+  color: black;
+  padding: auto;
+  margin: auto;
+  font-size: 30px;
+  text-align: center;
 }
 #rockButton {
-	color: white;
-	background-color: black;
-	padding: auto;
-	margin: auto;
-	font-size: 50px;
-	text-align: center;
-	display: block;
+  color: white;
+  background-color: black;
+  padding: auto;
+  margin: auto;
+  font-size: 50px;
+  text-align: center;
+  display: block;
 }
 #paperButton {
-	color: white;
-	background-color: black;
-	padding: auto;
-	margin: auto;
-	font-size: 50px;
-	text-align: center;
-	display:block;
+  color: white;
+  background-color: black;
+  padding: auto;
+  margin: auto;
+  font-size: 50px;
+  text-align: center;
+  display: block;
 }
 #scissorsButton {
-	color: white;
-	background-color: black;
-	padding: auto;
-	margin: auto;
-	font-size: 50px;
-	text-align: center;
-	display:block;
+  color: white;
+  background-color: black;
+  padding: auto;
+  margin: auto;
+  font-size: 50px;
+  text-align: center;
+  display: block;
 }
 #divHistory {
-	color: black;
-	padding: 50px;
-	font-size: 50px;
-	margin: auto;
-	width: 50%;
-	text-align: center;
-	display:block;
+  color: black;
+  padding: 50px;
+  font-size: 50px;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  display: block;
 }
 img {
-	width: auto;
-	margin: auto;
-	padding: auto;
-	display: block;
+  width: auto;
+  margin: auto;
+  padding: auto;
+  display: block;
 }
